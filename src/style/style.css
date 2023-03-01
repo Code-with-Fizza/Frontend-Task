@@ -1,0 +1,51 @@
+.box-border {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #00000017;
+    border: none;
+}
+
+.title-font {
+    text-align: center;
+    font: normal normal bold 13px/16px Montserrat;
+    letter-spacing: 0.26px;
+    color: #6DBCDB;
+    opacity: 1;
+}
+
+.top-customer-style {
+    background: transparent linear-gradient(180deg, #FF9500 0%, #FFD45E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 30px;
+    text-align: center;
+    font: normal normal bold 13px/16px Montserrat;
+    font-size: 13px;
+    letter-spacing: 0.26px;
+    color: #F7F7F7;
+    opacity: 1;
+    width: 110px;
+}
+
+.credit-font-size {
+    text-align: left;
+    font: normal normal normal 31px/36px Titillium Web;
+    letter-spacing: 0.23px;
+    color: #000000;
+    opacity: 1;
+}
+
+.card-label-font {
+    text-align: left;
+    font: normal normal 600 11px/15px Titillium Web;
+    letter-spacing: 1.65px;
+    color: #707070;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.card-text-body-font {
+    text-align: left;
+    font: normal normal 600 19px/24px Titillium Web;
+    letter-spacing: 0.14px;
+    color: #000000;
+    opacity: 1;
+}

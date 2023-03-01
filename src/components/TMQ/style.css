@@ -1,0 +1,109 @@
+.box-border {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #00000017;
+    border: none;
+}
+
+.title-font {
+    text-align: center;
+    font: normal normal bold 13px/16px Montserrat;
+    letter-spacing: 0.26px;
+    color: #6DBCDB;
+    opacity: 1;
+}
+
+.top-customer-style {
+    background: transparent linear-gradient(180deg, #FF9500 0%, #FFD45E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 30px;
+    text-align: center;
+    font: normal normal bold 13px/16px Montserrat;
+    font-size: 13px;
+    letter-spacing: 0.26px;
+    color: #F7F7F7;
+    opacity: 1;
+    width: 110px;
+}
+
+.credit-font-size {
+    text-align: left;
+    font: normal normal normal 31px/36px Titillium Web;
+    letter-spacing: 0.23px;
+    color: #000000;
+    opacity: 1;
+}
+
+.card-label-font {
+    text-align: left;
+    font: normal normal 600 11px/15px Titillium Web;
+    letter-spacing: 1.65px;
+    color: #707070;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.card-text-body-font {
+    text-align: left;
+    font: normal normal 600 19px/24px Titillium Web;
+    letter-spacing: 0.14px;
+    color: #000000;
+    opacity: 1;
+}
+
+
+/*  2nd page css styling */
+
+.quality-btn-bg-font {
+    background: #E11E25 0% 0% no-repeat padding-box;
+    border-radius: 50px 0px 0px 50px;
+    opacity: 1;
+    text-align: center;
+    font: normal normal bold 24px/25px Nunito;
+    letter-spacing: 0px;
+    height: 70px;
+    width: 192px;
+    color: #FFFFFF;
+    border: none;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.performance-btn-bg-font {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 0px 50px 50px 0px;
+    opacity: 1;
+    height: 70px;
+    width: 192px;
+    text-align: left;
+    font: normal normal bold 24px/22px Nunito;
+    letter-spacing: 0px;
+    border: none;
+    color: #606060;
+    opacity: 1;
+}
+
+.title-label-font {
+    font: normal normal bold 32px/22px Nunito;
+    letter-spacing: 0px;
+    color: #606060;
+    opacity: 1;
+}
+
+.main-card-title-font {
+    text-align: center;
+    font: normal normal bold 32px/22px Nunito;
+    letter-spacing: 0px;
+    color: #606060;
+    opacity: 1;
+}
+
+.btn-orange {
+    background-color: orange;
+}
+
+.main-card-bg-border {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 25px;
+    opacity: 1;
+}
